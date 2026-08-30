@@ -6,8 +6,6 @@ Watch the full learning playlist here:
 
 - [Build and Figure Python Playlist](https://youtube.com/playlist?list=PLLUJQxv3AId4&si=lHrwBxqrIhtncUm8)
 
-> Replace the placeholder link above with your actual YouTube playlist URL.
-
 This repository is organized to support a beginner-to-intermediate Python learning path using an assignment and solution workflow.
 
 ## Repository structure
