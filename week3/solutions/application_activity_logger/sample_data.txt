@@ -1,0 +1,2 @@
+Application logging records what happened, when it happened, and its severity.
+

@@ -1,0 +1,9 @@
+2026-09-14 00:04:37 | DEBUG | application_activity_logger | Logging configured successfully.
+2026-09-14 00:04:37 | DEBUG | application_activity_logger | Application started.
+2026-09-14 00:04:42 | DEBUG | application_activity_logger | Menu choice '1' received.
+2026-09-14 00:04:46 | DEBUG | application_activity_logger | Login attempt received for username 'Ashwik'.
+2026-09-14 00:04:46 | WARNING | application_activity_logger | Failed login attempt for user Ashwik.
+2026-09-14 00:04:46 | ERROR | application_activity_logger | Activity failed: AuthenticationError: Incorrect username or password.
+2026-09-14 00:04:52 | DEBUG | application_activity_logger | Menu choice '5' received.
+2026-09-14 00:04:52 | WARNING | application_activity_logger | Logout selected without an active user session.
+2026-09-14 00:04:52 | DEBUG | application_activity_logger | Application ended.
