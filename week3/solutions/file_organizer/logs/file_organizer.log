@@ -1,0 +1,3 @@
+2026-09-14 00:17:51 | DEBUG | File-organizer logging configured.
+2026-09-14 00:17:51 | ERROR | Source folder does not exist: SOURCE_FOLDER.
+2026-09-14 00:17:51 | CRITICAL | The organizer could not start: FileNotFoundError: Source folder does not exist: SOURCE_FOLDER.

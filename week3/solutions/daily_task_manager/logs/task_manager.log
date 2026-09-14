@@ -1,0 +1,14 @@
+2026-09-14 00:26:31 | DEBUG | Task-manager logging configured.
+2026-09-14 00:26:31 | INFO | Daily Task Manager started.
+2026-09-14 00:26:31 | DEBUG | Loading tasks from /Users/ashwiksagi/Desktop/python-build-and-figure/week3/solutions/daily_task_manager/data/tasks.json.
+2026-09-14 00:26:31 | INFO | No task data file exists yet; starting with an empty list.
+2026-09-14 00:26:31 | DEBUG | Finished the task-loading attempt.
+2026-09-14 00:26:37 | DEBUG | Menu choice '1' received.
+2026-09-14 00:26:50 | DEBUG | Saving 1 task(s) to /Users/ashwiksagi/Desktop/python-build-and-figure/week3/solutions/daily_task_manager/data/tasks.json.
+2026-09-14 00:26:50 | INFO | Saved 1 task(s) successfully.
+2026-09-14 00:26:50 | DEBUG | Finished the task-saving attempt.
+2026-09-14 00:26:50 | INFO | Added task 1: assignment 1.
+2026-09-14 00:26:54 | DEBUG | Menu choice '2' received.
+2026-09-14 00:26:54 | DEBUG | Listing 1 task(s).
+2026-09-14 00:27:02 | DEBUG | Menu choice '5' received.
+2026-09-14 00:27:02 | INFO | Daily Task Manager closed.
