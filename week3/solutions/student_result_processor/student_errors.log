@@ -1,0 +1,7 @@
+2026-09-13 23:57:28 | INFO | Processed student S101 (Asha) successfully.
+2026-09-13 23:57:28 | ERROR | Skipped CSV row 3 for S102: InvalidMarksError: subject2 mark must be numeric; received 'absent'.
+2026-09-13 23:57:28 | ERROR | Skipped CSV row 4 for S103: MissingStudentInformationError: name is required.
+2026-09-13 23:57:28 | ERROR | Skipped CSV row 5 for S104: InvalidMarksError: subject1 mark must be between 0 and 100; received 105.0.
+2026-09-13 23:57:28 | INFO | Processed student S105 (Arjun) successfully.
+2026-09-13 23:57:28 | INFO | Processed student S106 (Nila) successfully.
+2026-09-13 23:57:28 | INFO | Processed student S107 (Ishaan) successfully.
